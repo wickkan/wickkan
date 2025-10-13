@@ -5,4 +5,4 @@
 - How to reach me:
     - Website: kanishkabw.com
     - LinkedIn: www.linkedin.com/in/kanishkabw
-    - Email: kanishkawickramasinghe50@gmail.com
+    - Email: kanishkabw1@gmail.com
