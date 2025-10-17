@@ -1,8 +1,8 @@
-<h1 align="center">Hey I'm Kanishka</h1>
+<h1 align="center">Hey, I'm Kanishka</h1>
 
-- Commerce (Finance) and Computer Science (Data Science) graduate from Monash University
-- Data Scientist @ Newmont
-- How to reach me:
-    - Website: kanishkabw.com
-    - LinkedIn: www.linkedin.com/in/kanishkabw
-    - Email: kanishkabw1@gmail.com
+- Commerce (Finance) and Computer Science (Data Science) graduate from Monash University  
+- Data Scientist @ Newmont  
+- How to reach me:  
+  - [Website](https://kanishkabw.com)  
+  - [LinkedIn](https://www.linkedin.com/in/kanishkabw)  
+  - [Email](mailto:kanishkabw1@gmail.com)
