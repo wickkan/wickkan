@@ -5,4 +5,4 @@
 - How to reach me:  
   - [Website](https://kanishkabw.com)  
   - [LinkedIn](https://www.linkedin.com/in/kanishkabw)  
-  - [Email](mailto:kanishkabw1@gmail.com)
+  - [Email](mailto:kanishkawickramasinghe50@gmail.com)
